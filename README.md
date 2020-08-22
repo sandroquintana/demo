@@ -1,4 +1,6 @@
 Primer archivo de prueba GIT
 
-# primera inea que se modifica
-prrimera para validar
+# primera linea que se modifica
+primera para validar
+
+unoa nueva linea en BRANCHH
